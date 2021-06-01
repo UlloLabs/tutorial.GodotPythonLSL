@@ -6,6 +6,7 @@ symbol_prefix="godot_"
 
 [entry]
 
+FRT="res://addons/pythonscript/x11-64/libpythonscript.so"
 X11.64="res://addons/pythonscript/x11-64/libpythonscript.so"
 X11.32="res://addons/pythonscript/x11-32/libpythonscript.so"
 Server.64="res://addons/pythonscript/x11-64/libpythonscript.so"
